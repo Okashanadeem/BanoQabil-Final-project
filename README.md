@@ -1,3 +1,3 @@
 # BanoQabil Final project
  Pizza shop webpage
- https://65df133146145507d1bc0e7b--stupendous-profiterole-cfcb49.netlify.app/
+ https://65e21bbda44d6d00a2845489--famous-quokka-68249f.netlify.app/
